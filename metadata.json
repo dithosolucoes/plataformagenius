@@ -1,0 +1,5 @@
+{
+  "name": "Dynamic Site Generator",
+  "description": "A sophisticated system to generate entire websites from a single structured JSON input, featuring a dark, developer-focused UI. Includes an AI-powered assistant to generate site structures from text prompts.",
+  "requestFramePermissions": []
+}
